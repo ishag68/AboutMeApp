@@ -24,7 +24,7 @@ struct ContentView: View {
          
                 Spacer()
                 
-                Button("Click for Fact"){
+                Button("Click for  Fun Fact"){
                     
                     fact = "I love going to farmers markets (this is a picture of one in new york!)"
                     
